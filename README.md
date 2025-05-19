@@ -10,6 +10,7 @@ Die Anwendung wird eine benutzerfreundliche Schnittstelle bieten, um Einnahmen, 
         - __init__.py
         - main.py
         - utils.py
+        - finanzdaten.csv
     - tests
         - __init__.py
         - test_main.py
