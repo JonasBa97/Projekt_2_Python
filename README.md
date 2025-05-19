@@ -5,12 +5,16 @@ Das Ziel dieses Projekts ist es, dem Benutzer zu helfen, seine finanziellen Ziel
 Die Anwendung wird eine benutzerfreundliche Schnittstelle bieten, um Einnahmen, Ausgaben und Sparziele zu verfolgen.
 
 ## Die Struktur des Personal Finance Dashboards:
-- mein_projekt
+- PFD_App
     - app
         - __init__.py
         - main.py
         - utils.py
+    - build
+    - tests
+        - __init__.py
+        - test_main.py
     - requirements.txt
     - setup.py
     - README.md
-
+    - .gitignore
