@@ -12,6 +12,7 @@ Die README.md für die Anwendung zur Bedienung befindet sich im Ordner der PFD-A
         - __init__.py
         - main.py
         - utils.py
+        - finanzdaten.csv
     - tests
         - __init__.py
         - test_main.py
