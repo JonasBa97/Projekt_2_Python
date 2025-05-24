@@ -1,14 +1,18 @@
 
-# Mein-Projekt
+# Personal Finance Dashboard
 
-Ein einfaches Python-Projekt mit sauberer Struktur, Build-System und Dockerfile.
+Das Personal Finance Dashboard bietet eine umfassende Übersicht über die Finanzen des Benutzers.
+Das Ziel dieses Projekts ist es, dem Benutzer zu helfen, seine finanziellen Ziele zu setzen und Fortschritte zu visualisieren.
+Die Anwendung wird eine benutzerfreundliche Schnittstelle bieten, um Einnahmen, Ausgaben und Sparziele zu verfolgen.
 
 ## Installation
 pip install .
 
-## Entwicklung
-pytest
+## benötigte Bibliotheken
+- matplotlib
+- plotly
+- pandas
+- openpyxl
 
-## Deployment als Docker-Container
-docker build -t Hello_World_App .
-docker run -it Hello_World_App
+## Bedienung
+

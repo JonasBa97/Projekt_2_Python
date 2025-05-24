@@ -1,0 +1,23 @@
+Datum,Typ,Betrag,Kategorie
+2025-05-24,Einnahme,2500.0,Gehalt
+2025-05-24,Einnahme,500.0,Bareinzahlung
+2025-05-24,Einnahme,1000.0,Gehalt
+2025-05-24,Einnahme,2500.0,Gehalt
+2025-05-24,Einnahme,2000.0,Bareinzahlung
+2025-05-24,Ausgabe,500.0,Miete
+2025-05-24,Ausgabe,250.0,Versicherungen
+2025-05-24,Ausgabe,250.0,Altersvorsorge
+2025-05-24,Ausgabe,500.0,Verpflegung
+2025-05-24,Ausgabe,500.0,Spassgeld
+2025-05-24,Ausgabe,1000.0,Sparen: Notfallfonds
+2025-05-24,Ausgabe,500.0,Sparen: Urlaub
+2025-05-24,Ausgabe,500.0,Miete
+2025-05-24,Ausgabe,250.0,Versicherungen
+2025-05-24,Ausgabe,250.0,Altersvorsorge
+2025-05-24,Ausgabe,1000.0,Sparen: Notfallfonds
+2025-05-24,Ausgabe,250.0,Sparen: Urlaub
+2025-05-24,Ausgabe,300.0,Sparen: Urlaub
+2025-05-24,Ausgabe,500.0,Sparen: Urlaub
+2025-05-24,Ausgabe,700.0,Sparen: Urlaub
+,Notfallfonds,25000.0,
+,Urlaub,2500.0,
