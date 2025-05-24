@@ -17,4 +17,3 @@ Die Anwendung wird eine benutzerfreundliche Schnittstelle bieten, um Einnahmen, 
     - requirements.txt
     - setup.py
     - README.md
-    - .gitignore
